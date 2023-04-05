@@ -1,0 +1,70 @@
+.skin-blue .main-header .navbar,.logo{
+    
+    background: #BF1E2E !important;
+}
+
+
+.main-header .sidebar-toggle:hover{
+    
+    background: none !important;
+}
+
+
+   /* register login page design */
+
+.account-bg{
+    
+     background: url("hisabana-login.png") !important;
+     
+   
+}
+
+  
+.login-logo a, .register-logo a {
+    color: #BF1E2E !important;
+}
+
+.skin-blue .main-header li.user-header{
+    
+    background: #BF1E2E !important;
+}
+
+.navbar-nav>.user-menu>.dropdown-menu>.user-footer .btn-default {
+    
+    background: #BF1E2E  !important;
+    
+    color: aliceblue !important;
+}
+
+
+/*footer powered by */
+
+
+.powered{
+    margin-left: 230px ;
+}
+
+
+
+.user-panel>.image>img {
+    width: 100%;
+    max-width: 50px;
+    height: auto;
+}
+.img-circle {
+    
+    border-radius: 0% ;
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__choice{
+    
+    background: gray !important;
+}
+
+.small-box h3 {
+    font-size: large !important;
+}
+
+
+
+
